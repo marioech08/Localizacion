@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localizacion</string>
+    <string name="sacar_foto">Sacar Foto</string>
+    <string name="imagen_foto">Imagen capturada por el usuario</string>
+
+
+</resources>
